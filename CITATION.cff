@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "Bila memakai kode atau hasil ini, harap sitasi sebagai berikut."
+title: "Kode dan hasil: Deteksi dini mahasiswa berisiko gagal sebelum ujian (SIS + Moodle + eDify)"
+authors:
+  - family-names: "Rumintarsih"
+    given-names: "Ade"
+    affiliation: "Fakultas Sistem Informasi, Universitas Nusa Mandiri, Jakarta, Indonesia"
+    email: "14220007@nusamandiri.ac.id"
+    orcid: "https://orcid.org/0000-0002-3972-9822"
+version: "v-1.1H"
+doi: "10.5281/zenodo.23095211"
+date-released: "2026-10-02"
+repository-code: "https://github.com/14220007/early-warning-sis-moodle-edify"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23095210"
+    description: "Concept DOI (semua versi)"
+license: "MIT"
+references:
+  - type: data
+    title: "Dataset of Students' Performance Using Student Information System, Moodle and the Mobile Application eDify"
+    authors:
+      - family-names: "Hasan"
+        given-names: "Raza"
+      - family-names: "Palaniappan"
+        given-names: "Sellappan"
+      - family-names: "Mahmood"
+        given-names: "Salman"
+      - family-names: "Abbas"
+        given-names: "Ali"
+      - family-names: "Sarker"
+        given-names: "Kamal Uddin"
+    year: 2021
+    doi: "10.3390/data6110110"
+    url: "https://zenodo.org/records/5591907"
+    license: "CC-BY-4.0"
